@@ -1,5 +1,12 @@
+html {
+  background: url(https://images.pexels.com/photos/2086917/pexels-photo-2086917.png?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
 body {
-	background-image: linear-gradient(15deg, #13547a 0%, #80d0c7 100%);
 	color: white;
 	font-family: 'Montserrat', sans-serif;
 	font-size: 62,5%;
